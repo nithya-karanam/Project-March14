@@ -1,0 +1,36 @@
+1)Registration buyer
+{
+    "name":"Bharti",
+    "email":"bharti@gmail.com",
+    "phonenumber":"7777544457",
+    "password":"Bharti#456"
+    
+}
+{
+    "name":"Tanmay",
+    "email":"tanmay@gmail.com",
+    "phonenumber":"7777544458",
+    "password":"Tanmay@123"
+    
+}
+2)Login buyer
+
+{
+    "email":"tanmay@gmail.com",
+    "password":"Tanmay@123"
+    
+}
+3) Add cart
+{
+  "buyerId":2,
+  "prodId":5,
+  "quantity":8
+    
+}
+4)add wishlist
+{
+  "buyerId":2,
+  "prodId":5,
+  
+    
+}
